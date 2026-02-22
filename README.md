@@ -1,4 +1,17 @@
-# cobol-modernization-resources
+# COBOL Modernization Resources
+A curated collection of COBOL, IBM i (AS400), modernization tools, parsers, cloud enablement projects, and learning resources to help bridge legacy systems with modern architectures.
+
+## 📌 Why This Repository?
+
+COBOL powers a massive portion of the world's financial, banking, and enterprise infrastructure. Modernization doesn’t mean replacing — it means:
+
+- 🔄 Refactoring & migrating legacy systems
+- 🌐 Web-enabling mainframe applications
+- ☁️ Integrating with cloud & microservices
+- 🤖 Leveraging AI-assisted modernization
+- 🧪 Adding automated testing & CI/CD
+
+This repository collects practical projects to help you get started.
 
 ## cobol code
 1. https://github.com/sedegah/COBOL--Chronicles
@@ -52,6 +65,15 @@
 49. https://github.com/fapulito/jsoncons
 50. https://github.com/PID64500/Cobol_Tools_With_Python
 51. https://github.com/toreleon/COBOL-execution-trace
+52. https://github.com/Martinfx/Cobol
+53. https://github.com/jiuweigui/cobol
+54. https://github.com/IBM/kubernetes-cobol
+55. https://github.com/loveOSS/awesome-cobol
+56. https://github.com/bmTas/JRecord
+57. https://github.com/openmainframeproject/cobol-check
+58. https://github.com/neopragma/cobol-unit-test
+59. https://github.com/Apress/beg-cobol-for-programmers
+60. https://github.com/shamrice/COBOL-Examples
 
 ## AS400 (IBM I)
 1. https://github.com/Mspagnolo27248/ARG-AS400-DOCS
@@ -95,3 +117,17 @@
 39. https://github.com/Gowtham-1603/IBM-Assignment
 40. https://github.com/robertoantonmartinlasalle/batch-job-vencidas
 41. https://github.com/IBM/watsonx-code-assistant
+
+
+## 🤝 Contributing
+Want to add more tools or projects?
+
+1. Fork the repo
+2. Add the project
+3. Submit a PR
+
+## ⭐ Support
+If this helped you:
+- Star the repo ⭐
+- Share with mainframe engineers
+- Contribute modernization resources
